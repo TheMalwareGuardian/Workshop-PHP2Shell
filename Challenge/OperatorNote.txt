@@ -1,0 +1,1 @@
+Operations note: the ledger archive moved to the vault service on the private backplane. It listens on port 9000. The runtime access key is mounted at /opt/workshop/access/vault.key.
